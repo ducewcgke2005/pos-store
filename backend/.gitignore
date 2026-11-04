@@ -1,0 +1,4 @@
+.cache/
+.migration-work/
+.migration-baseline-path
+!.env.example

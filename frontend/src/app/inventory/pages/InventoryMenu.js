@@ -70,6 +70,7 @@ function InventoryMenu() {
           </div>
 
           {/* Yêu cầu điều chỉnh tồn kho */}
+          {/*
           <div className="col">
             <div
               className="card h-100 border-0 shadow-lg rounded-4 text-center cursor-pointer"
@@ -92,6 +93,7 @@ function InventoryMenu() {
               </div>
             </div>
           </div>
+          */}
 
           {/* Quản lý nhà cung cấp */}
           <div className="col">
@@ -118,6 +120,7 @@ function InventoryMenu() {
           </div>
 
           {/* Báo cáo nhập hàng */}
+          {/*
           <div className="col">
             <div
               className="card h-100 border-0 shadow-lg rounded-4 text-center cursor-pointer"
@@ -140,7 +143,9 @@ function InventoryMenu() {
               </div>
             </div>
           </div>
+          */}
 
+          {/*
           <div className="col">
             <div
               className="card h-100 border-0 shadow-lg rounded-4 overflow-hidden text-center transition hover-shadow-xl cursor-pointer"
@@ -164,6 +169,7 @@ function InventoryMenu() {
               </div>
             </div>
           </div>
+          */}
 
         </div>
       </div>
